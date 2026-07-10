@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b962bf2-6bc1-48de-a1ff-52c0d38b4204" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ques15LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques16CalculateGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques17AgeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques18BitwiseAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques19BitwiseOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques20BitwiseXor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques21BitwiseCompliment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques22Leftshift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques23RightShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques24OddEvenBitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-100-Questions-Challenge.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques25MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques26OddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Factorial.executor": "Run",
     "Application.Ques16CalculateGrades.executor": "Run",
     "Application.Ques17AgeCalculator.executor": "Run",
     "Application.Ques18BitwiseAnd.executor": "Run",
@@ -55,6 +47,9 @@
     "Application.Ques22Leftshift.executor": "Run",
     "Application.Ques23RightShift.executor": "Run",
     "Application.Ques24OddEvenBitwise.executor": "Run",
+    "Application.Ques25MultiplicationTable.executor": "Run",
+    "Application.Ques26OddSum.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
