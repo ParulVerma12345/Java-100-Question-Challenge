@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Factorial {
+public class Ques28Factorial {
     public static void main(String[]args){
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome to the Factorial");
