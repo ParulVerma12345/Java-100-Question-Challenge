@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b962bf2-6bc1-48de-a1ff-52c0d38b4204" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ques29LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques30GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques31PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques32ReverseTheDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques33FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques34ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques35PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques36ArraySumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques37OccurrencesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques38MaxMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques39IsSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques40DeleteFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques41ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques42PalindromeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques43MergetwoSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques28Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ques14GreatestOfThreeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques14GreatestOfThreeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ques33FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques33FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ques34ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques34ArmstrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +64,15 @@
     "Application.Ques33FibonacciSeries.executor": "Run",
     "Application.Ques34ArmstrongNumber.executor": "Run",
     "Application.Ques35PalindromeNumber.executor": "Run",
+    "Application.Ques36ArraySumAverage.executor": "Run",
     "Application.Ques36LoopPatterns.executor": "Run",
+    "Application.Ques37OccurrencesArray.executor": "Run",
+    "Application.Ques38MaxMinArray.executor": "Run",
+    "Application.Ques39IsSortedArray.executor": "Run",
+    "Application.Ques40DeleteFromArray.executor": "Run",
+    "Application.Ques41ReverseArray.executor": "Run",
+    "Application.Ques42PalindromeArray.executor": "Run",
+    "Application.Ques43MergetwoSortedArray.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

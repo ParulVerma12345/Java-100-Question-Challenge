@@ -5,7 +5,7 @@ public class Ques33FibonacciSeries {
         System.out.println("Welcome to the Fibonacci Series ");
         System.out.println("Please enter the number up to which series has to be printed:");
         int num=input.nextInt();
-        System.out.println("Here iss the Fibonacci Series");
+        System.out.println("Here is the Fibonacci Series");
         printFibonacci(num);
 
         }

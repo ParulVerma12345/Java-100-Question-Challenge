@@ -8,7 +8,7 @@ public class Ques14GreatestOfThreeNum {
         int first = input.nextInt();
         System.out.println("Now,enter your second number:");
         int second = input.nextInt();
-        System.out.println("Finally,enter you third number:");
+        System.out.println("Finally,enter your third number:");
         int third = input.nextInt();
 
         if (first >= second && first >= third) {

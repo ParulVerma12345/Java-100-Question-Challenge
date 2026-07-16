@@ -6,7 +6,6 @@ public class Ques34ArmstrongNumber {
         System.out.println("Please enter your number:");
         int num=input.nextInt();
         boolean isArmstrong=isArmstrong(num);
-
         if(isArmstrong ){
             System.out.println("Your number is Armstrong");
         }else{
