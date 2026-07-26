@@ -2,19 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b962bf2-6bc1-48de-a1ff-52c0d38b4204" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques36ArraySumAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques37OccurrencesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques38MaxMinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques39IsSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques40DeleteFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques41ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques42PalindromeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques43MergetwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques44Search2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques45SumAverage2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques46DiagonalSum2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques47MinimumTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques48OddEvenTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques49AbsoluteTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques50StudentScoreTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques51MonthSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques52CalculatorSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques53PasswordChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques54NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques56Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques57PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques58MaximumValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques59CountOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques60BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques61ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques62EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques63FibonacciUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques64PalindromeUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques65Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ques14GreatestOfThreeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques14GreatestOfThreeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ques33FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques33FibonacciSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ques34ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques34ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Factorial.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Ques16CalculateGrades.executor": "Run",
     "Application.Ques17AgeCalculator.executor": "Run",
     "Application.Ques18BitwiseAnd.executor": "Run",
@@ -73,7 +84,29 @@
     "Application.Ques41ReverseArray.executor": "Run",
     "Application.Ques42PalindromeArray.executor": "Run",
     "Application.Ques43MergetwoSortedArray.executor": "Run",
+    "Application.Ques45SumAverage2DArray.executor": "Run",
+    "Application.Ques46DiagonalSum2DArray.executor": "Run",
+    "Application.Ques47MinimumTernary.executor": "Run",
+    "Application.Ques48OddEvenTernary.executor": "Run",
+    "Application.Ques49AbsoluteTernary.executor": "Run",
+    "Application.Ques50StudentScoreTernary.executor": "Run",
+    "Application.Ques51MonthSwitch.executor": "Run",
+    "Application.Ques52CalculatorSwitch.executor": "Run",
+    "Application.Ques53PasswordChecker.executor": "Run",
+    "Application.Ques54NumberGuessingGame.executor": "Run",
+    "Application.Ques56Table.executor": "Run",
+    "Application.Ques57PrimeNumber.executor": "Run",
+    "Application.Ques58MaximumValue.executor": "Run",
+    "Application.Ques59CountOccurrences.executor": "Run",
+    "Application.Ques60BreakStatement.executor": "Run",
+    "Application.Ques61ContinueStatement.executor": "Run",
+    "Application.Ques62EvenNumber.executor": "Run",
+    "Application.Ques63FibonacciUsingRecursion.executor": "Run",
+    "Application.Ques64PalindromeUsingRecursion.executor": "Run",
+    "Application.Ques65Student.executor": "Run",
+    "Application.Question44Search2DArray.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
+    "Application.harsh.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
