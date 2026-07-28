@@ -1,8 +1,8 @@
-class Student {
+class Student1 {
     String name;
     int age;
 
-    Student(String name, int age) {
+    Student1(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -14,7 +14,7 @@ class Student {
 
 public class Ques65Student {
     public static void main(String[] args) {
-        Student s1 = new Student("Sejal", 20);
+        Student1 s1 = new Student1("Sejal", 20);
         System.out.println(s1);
     }
 }

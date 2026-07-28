@@ -2,29 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b962bf2-6bc1-48de-a1ff-52c0d38b4204" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ques44Search2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques45SumAverage2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques46DiagonalSum2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques47MinimumTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques48OddEvenTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques49AbsoluteTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques50StudentScoreTernary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques51MonthSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques52CalculatorSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques53PasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques54NumberGuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques56Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques57PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques58MaximumValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques59CountOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques60BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques61ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques62EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques63FibonacciUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques64PalindromeUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ques65Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques66ConcatenateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques67Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques68DiceRoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques69GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques70StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques71Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques72Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques73BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques74Com/example/employee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ques74Com/example/employee/TestEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/geometry/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/utils/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ques65Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ques65Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +96,18 @@
     "Application.Ques63FibonacciUsingRecursion.executor": "Run",
     "Application.Ques64PalindromeUsingRecursion.executor": "Run",
     "Application.Ques65Student.executor": "Run",
+    "Application.Ques66ConcatenateString.executor": "Run",
+    "Application.Ques67Circle.executor": "Run",
+    "Application.Ques68DiceRoll.executor": "Run",
+    "Application.Ques69GuessGame.executor": "Run",
+    "Application.Ques70StringBuilderExample.executor": "Run",
+    "Application.Ques71Student.executor": "Run",
+    "Application.Ques71Student1.executor": "Run",
+    "Application.Ques72Main.executor": "Run",
+    "Application.Ques73BankAccount.executor": "Run",
     "Application.Question44Search2DArray.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
+    "Application.TestEmployee.executor": "Run",
     "Application.harsh.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
